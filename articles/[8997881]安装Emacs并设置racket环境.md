@@ -6,6 +6,10 @@
 
 ## 安装lisp解释器
 
+直接点击官方教程[点我查看](http://ergoemacs.org/emacs/which_emacs.html)，上面讲解的十分清楚，基本上不同系统的安装方式大同小异，下载后点击运行，还是很简单的吧。
+
+## 安装lisp解释器
+
 lisp有无数种实现的版本，这里我使用的是`Racket`，因为我之前电脑上就有`Dr.Racket`所以不用下载，如果你没有的话，可以点击[Racket下载地址](https://download.racket-lang.org/)，选择合适系统的版本进行下载，当然你也可以选择其他lisp方言的实现版本，例如[Petite Chez Scheme下载地址](http://scheme.com/download)。下载完解压即可。
 
 下载完毕后，你可以得到这样的一些程序
